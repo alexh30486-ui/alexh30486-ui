@@ -1,5 +1,7 @@
-# 💫 About Me:
-Driven by a multidisciplinary foundation from UC San Diego, I approach AI-native engineering through a unique lens. Although I formally studied Communications, my time at UCSD was defined by an intensive exploration into computer science and technical systems. This unconventional path allowed me to master the art of bridging human-centric design with complex, high-performance logic.<br>I specialize in constructing RAG pipelines, engineering autonomous agents, and developing scalable AI infrastructure. By combining the analytical rigor of computer science with a background in strategic communication, I build systems that are not only technically sound but intuitively structured. I am constantly iterating on my stack, utilizing tools like Python, Pine Script, and Adobe Creative Suite <br>to ensure my projects remain at the intersection of aesthetic precision and high-level functionality. This repository serves as the living archive of my transition from student to engineer—where every line of code is an experiment in the future of AI.
+# **Welcome to my ditigal world 🏁**
+
+AI-native engineer with a foundation in Communication from the University of California, San Diego, bringing a human-centered approach to technical problem-solving. I specialize in designing AI-powered workflows, API integrations, RAG pipelines, autonomous agents, and scalable automation using Python and modern AI frameworks. My unconventional path allows me to bridge user experience, strategic communication, and software engineering to build intelligent systems that are both technically robust and intuitive. Passionate about deploying cutting-edge AI solutions that improve business operations through automation, cloud optimization, and data-driven decision-making.
+
 
 
 # 💻 Tech Stack:
