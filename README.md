@@ -1,5 +1,3 @@
-**Hello, I am Alex **
-
 I am currently enrolled in CodePath’s AI Engineering course, mastering Python and modern AI frameworks to build robust, intelligent systems. Driven by a passion for user experience, strategic communication, and software engineering, I bridge the gap between technical complexity and intuitive design. I am focused on launching a career as a Forward Deployed Engineer, leveraging automation, cloud optimization, and data-driven decision-making to deploy cutting-edge AI solutions that directly improve business operations.
 
 
