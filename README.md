@@ -1,10 +1,5 @@
-I am an aspiring **AI Engineer** focused on building intelligent, production-ready software that solves real-world business challenges. Currently enrolled in **CodePath's AI Engineering Program**, I am expanding my expertise in Python, modern AI frameworks, backend engineering, cloud technologies, and full-stack development through hands-on projects and open-source collaboration.
-
-My interests span **artificial intelligence, automation, distributed systems, cloud infrastructure, and developer tooling**, where I enjoy transforming complex technical problems into scalable, user-focused solutions. I believe the most impactful AI products combine strong engineering principles with thoughtful user experience and data-driven decision-making.
-
-I am actively building projects involving **Large Language Models (LLMs), AI agents, FastAPI, REST APIs, vector databases, cloud deployment, and intelligent automation**, while continuously improving my skills through real-world applications and open-source contributions.
-
-My goal is to launch a career as an **AI Engineer** or **Forward Deployed Engineer**, helping organizations integrate cutting-edge AI systems that streamline operations, enhance decision-making, and create measurable business value.
+I am an aspiring **AI Engineer** focused on building intelligent, production-ready software that solves real-world business challenges. Currently enrolled in **CodePath's AI Engineering Program and currentlly enrolled in their Capstone Project course**, I am expanding my expertise in Python, modern AI frameworks, backend engineering, cloud technologies, and full-stack development through hands-on projects and open-source collaboration.
+**AI Engineer**, looking for a full time role  integrate cutting-edge AI systems that streamline operations, enhance decision-making, and create measurable business value.
 
 
 # 💻 Tech Stack:
