@@ -1,5 +1,3 @@
-I am an aspiring **AI Engineer** focused on building intelligent, production-ready software that solves real-world business challenges. Currently enrolled in **CodePath's AI Engineering Program and currentlly enrolled in their Capstone Project course**, I am expanding my expertise in Python, modern AI frameworks, backend engineering, cloud technologies, and full-stack development through hands-on projects and open-source collaboration.
-**AI Engineer**, looking for a full time role  integrate cutting-edge AI systems that streamline operations, enhance decision-making, and create measurable business value.
 
 
 # 💻 Tech Stack:
