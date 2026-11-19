@@ -1,3 +1,4 @@
+
 [README.md](https://github.com/user-attachments/files/35100645/README.md)
 <!-- Layout inspired by the supplied README template by Daria Stanilevici.
      Alex-specific writing and visual assets adapted for this profile. -->
@@ -8,7 +9,9 @@
 # Alex Hernandez
 ### Software development · Open source · Data quality
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=8B6F95&amp;center=true&amp;width=680&amp;lines=Hi%2C+I%27m+Alex+Hernandez;C%23+and+Python+%7C+Open-source+contributor;Investigate.+Build.+Test.+Document." alt="Alex Hernandez — C# and Python, open-source contributor" width="680" />
+<img src="https://readme-typ<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Alex Hernandez profile overview"><rect width="1000" height="330" rx="14" fill="#111827"/><path d="M14 0H986Q1000 0 1000 14V42H0V14Q0 0 14 0" fill="#263244"/><circle cx="22" cy="21" r="6" fill="#F87171"/><circle cx="44" cy="21" r="6" fill="#FBBF24"/><circle cx="66" cy="21" r="6" fill="#86EFAC"/><text x="500" y="26" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="13">PROFILE OVERVIEW · not a live terminal session</text><text x="30" y="80" fill="#D9BED1" font-family="monospace" font-size="20">$ whoami</text><text x="30" y="114" fill="#F1F5F9" font-family="monospace" font-size="20">Alex Hernandez | software developer</text><text x="30" y="148" fill="#D9BED1" font-family="monospace" font-size="20">$ cat profile.txt</text><text x="30" y="182" fill="#E2E8F0" font-family="monospace" font-size="20">build     C# / Python / SQL</text><text x="30" y="216" fill="#E2E8F0" font-family="monospace" font-size="20">ship      CommunityToolkit.Maui PR #3343 — merged</text><text x="30" y="250" fill="#E2E8F0" font-family="monospace" font-size="20">learn     CodePath AI Engineering — Summer 2026</text><text x="30" y="284" fill="#E2E8F0" font-family="monospace" font-size="20">approach  investigate → test → document</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110"><g transform="translate(1200 110) rotate(180)"><path fill="#D9BED1" d="M0 0H1200V45C900 135 650 5 360 65S100 95 0 70Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110"><path fill="#D9BED1" d="M0 0H1200V45C900 135 650 5 360 65S100 95 0 70Z"/></svg>ing-svg.herokuapp.com?font=Montserrat&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1200&amp;color=8B6F95&amp;center=true&amp;width=680&amp;lines=Hi%2C+I%27m+Alex+Hernandez;C%23+and+Python+%7C+Open-source+contributor;Investigate.+Build.+Test.+Document." alt="Alex Hernandez — C# and Python, open-source contributor" width="680" />
 
 **I investigate defects, build useful tools, and document how I know they work.**
 
